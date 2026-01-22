@@ -1,0 +1,22 @@
+{
+  "short_name": "Matika",
+  "name": "Minecraft Matika pro těžaře",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.17.1/items/diamond_pickaxe.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.17.1/items/diamond_pickaxe.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#313131",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#313131",
+  "orientation": "portrait"
+}
